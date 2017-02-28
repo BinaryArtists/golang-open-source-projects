@@ -21,9 +21,9 @@
 
 # 边际目录
 
-- [Mac下的go环境]()
-	1. [下载安装包](http://www.golangtc.com/download)，[百度云盘下载](http://pan.baidu.com/s/1pL0Ca4V)
-	2. [编辑工具：Sublime Text](^_^), 安装插件：[gosublime](http://www.cnblogs.com/fengxm/p/5940900.html), 此前必须配置好GOPATH，GOBIN
+- [Mac下的go环境](http://www.jb51.net/article/91507.htm)
+	1. [下载安装包](http://www.golangtc.com/download)，[百度云盘下载](http://pan.baidu.com/s/1pL0Ca4V)，[我安装的1.8版本](https://pan.baidu.com/s/1dE2mWAt)
+	2. [编辑工具：Sublime Text](http://www.sublimetext.com/2), [Package Control 的安装](https://www.imjeff.cn/blog/62/), 安装插件：[gosublime](http://www.cnblogs.com/fengxm/p/5940900.html), 此前必须配置好GOPATH(日常开发的根目录)，GOBIN(是GOPATH下的bin目录。) ～～ *现在就可以愉快的敲go代码了*
 
 
 # 监控系统
