@@ -19,6 +19,13 @@
 - [区块链技术](#区块链技术)
 - [其它](#其它)
 
+# 边际目录
+
+- [Mac下的go环境]()
+	1. [下载安装包](http://www.golangtc.com/download)，[百度云盘下载](http://pan.baidu.com/s/1pL0Ca4V)
+	2. [编辑工具：Sublime Text](^_^), 安装插件：[gosublime](http://www.cnblogs.com/fengxm/p/5940900.html), 此前必须配置好GOPATH，GOBIN
+
+
 # 监控系统
 
 
