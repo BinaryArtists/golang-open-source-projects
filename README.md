@@ -14,7 +14,7 @@
 - [服务器管理](#服务器管理)
 - [安全工具](#安全工具)
 - [网络工具](#网络工具)
-- [Web工具](#Web工具)
+- [Web工具](#Web工具)]
 - [Web框架](#Web框架)
 - [区块链技术](#区块链技术)
 - [其它](#其它)
@@ -24,6 +24,8 @@
 - [Mac下的go环境](http://www.jb51.net/article/91507.htm)
 	1. [下载安装包](http://www.golangtc.com/download)，[百度云盘下载](http://pan.baidu.com/s/1pL0Ca4V)，[我安装的1.8版本](https://pan.baidu.com/s/1dE2mWAt)
 	2. [编辑工具：Sublime Text](http://www.sublimetext.com/2), [Package Control 的安装](https://www.imjeff.cn/blog/62/), 安装插件：[gosublime](http://www.cnblogs.com/fengxm/p/5940900.html), 此前必须配置好GOPATH(日常开发的根目录)，GOBIN(是GOPATH下的bin目录。) ～～ *现在就可以愉快的敲go代码了*
+- [Mac下的python环境](^_^)
+	1. [在Mac OS X下基于Sublime Text搭建开发平台包含numpy，scipy](http://blog.csdn.net/songrotek/article/details/46453073), 安装了 Anaconda，SublimeCodeIntel；安装numpy，scipy，matplotlib，pillow，你甚至可以通过这个方法安装Theano，一个深度学习框架
 
 
 # 监控系统
